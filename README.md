@@ -10,6 +10,7 @@ https://arxiv.org/abs/1708.00961
 
 We used a Benchmark Dataset for Low-Dose CT Reconstruction Methods. In total, the dataset contains 35 820 training images, 3522 validation images, 3553 test images. Each part contains scans from a distinct set of patients as we want to study the case of learned reconstructors being applied to patients that are not known from training.
 https://zenodo.org/record/3384092
+
 The notebook dlmi_project.ipynb contains a pytorch implementation of the Wgan-VGG Algorithm
 ### Evolution of reconstruction over the epochs
 

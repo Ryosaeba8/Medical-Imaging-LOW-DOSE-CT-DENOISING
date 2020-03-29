@@ -13,8 +13,9 @@ https://zenodo.org/record/3384092
 
 The notebook dlmi_project.ipynb contains a pytorch implementation of the Wgan-VGG Algorithm
 ### Evolution of reconstruction over the epochs
-- WGAN + VGG 
-<img src="https://github.com/Ryosaeba8/DLMI/blob/master/videos/wgan_vgg.gif" width="550"/>   
-- CNN + VGG 
+  - WGAN + VGG 
+<img src="https://github.com/Ryosaeba8/DLMI/blob/master/videos/wgan_vgg.gif" width="550"/>  
+
+  - CNN + VGG 
 <img src="https://github.com/Ryosaeba8/DLMI/blob/master/videos/vgg_alone.gif" width="550"/>   
 
